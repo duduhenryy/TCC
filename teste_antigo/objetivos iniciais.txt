@@ -1,0 +1,13 @@
+OBJETIVO: treinar uma base de dados para reconhecer ações em uma partida de vôlei, em python
+
+ENCONTRO 1)
+
+próximo objetivo:
+treinar o yolo com a base de dados baixada
+
+links:
+
+https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
+https://www.v7labs.com/open-datasets/volleyball
+
+https://github.com/mostafa-saad/deep-activity-rec

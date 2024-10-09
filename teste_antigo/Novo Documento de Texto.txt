@@ -1,0 +1,5 @@
+bitsadmin /transfer myDownloadJob /download /priority normal https://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe C:\Users\Edu\Desktop\Edu\estudos\tcc
+wget -o qt-installer.exe https://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe
+
+curl -o qt-installer.exe https://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe
+start qt-installer.exe
